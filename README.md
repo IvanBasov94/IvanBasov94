@@ -1,4 +1,4 @@
-![Header](https://github.com/IvanBasov94/IvanBasov94/blob/main/assets/header.png)
+![Header =.](https://github.com/IvanBasov94/IvanBasov94/blob/main/assets/header.png)
 
 ## About me
 I am a beginner frontend software developer.
@@ -14,5 +14,7 @@ I have experience in programming logic controllers.
 ![Git](https://img.shields.io/badge/-Git-4d4d4d?style=for-the-badge&logo=Git&logoColor=ef5032)
 ![SCSS](https://img.shields.io/badge/-SCSS-4d4d4d?style=for-the-badge&logo=Sass&logoColor=be608b)
 
+### Follow me
+[![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-4d4d4d?style=for-the-badge&logo=VK&logoColor=5281b9)](https://vk.com/id223165251)
+[![Telegram](https://img.shields.io/badge/-Telegram-4d4d4d?style=for-the-badge&logo=Telegram&logoColor=2fa1dd)](https://t.me/IvanBasov94)
 
-Follow me
