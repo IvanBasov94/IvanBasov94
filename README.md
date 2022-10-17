@@ -1,5 +1,3 @@
-![Header =.](https://github.com/IvanBasov94/IvanBasov94/blob/main/assets/header.png)
-
 ## About me
 I am a beginner frontend software developer.
 I have experience in programming logic controllers.
